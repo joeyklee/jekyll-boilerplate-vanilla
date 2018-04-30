@@ -24,7 +24,7 @@ jekyll new myblog
 cd myblog
 
 # Build the site on the preview server
-bundle exec jekyll serve
+bundle exec jekyll serve --config _config.yml,_config-dev.yml
 
 # Now browse to http://localhost:4000
 ```
