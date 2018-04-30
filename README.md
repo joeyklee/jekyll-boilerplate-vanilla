@@ -29,8 +29,6 @@ bundle exec jekyll serve
 # Now browse to http://localhost:4000
 ```
 
-## Build & Run
+## Files & Directories:
 
-```bash
-bundle exec jekyll serve 
-```
+
