@@ -17,8 +17,10 @@ title: jekyll boiler plate vanilla
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  a jekyll boilerplate using vanilla css w/ flexbox
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# CHANGE BELOW
+baseurl: "/startjekyll"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://joeyklee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # set dir to pages ==> this is where all the pages live!
